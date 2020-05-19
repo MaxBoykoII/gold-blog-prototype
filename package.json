@@ -1,0 +1,10 @@
+{
+  "name": "gold-blog-prototype",
+  "version": "1.0.0",
+  "description": "Prototype for a gold analyst blog",
+  "scripts": {
+    "start": "http-server . -p 4200"
+  },
+  "author": "Max Boyko <maxboykomax@gmail.com>",
+  "license": "MIT"
+}
